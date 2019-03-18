@@ -11,7 +11,7 @@ import time
 import threading
 import serial.tools.list_ports
 
-numofCoils = 16
+numofCoils = 30
 
 def serialRead():
     serialDict=[]
